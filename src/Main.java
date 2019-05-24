@@ -17,8 +17,8 @@ public class Main {
 //        int count= Employee.getNumberOfEmloyee();
 //        System.out.println(count);
 
-        double calc = Calculator.calcPi(2004500);
-        System.out.println(calc);
+//        double calc = Calculator.calcPi(2004500);
+//        System.out.println(calc);
         //Pyramid.printPyramid(4);
 
     }
